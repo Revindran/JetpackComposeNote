@@ -21,7 +21,5 @@ y
 Iapp/src/main/java/com/raveendran/composenote/ui/components/EmptyScreen.kt,d\2\d2e4a07d856ead71c84826e4eae8295bfe61ffd8
 {
 Kapp/src/main/java/com/raveendran/composenote/ui/components/LoadingScreen.kt,b\4\b47b4dae9f57455af73b82c060f10ac71c98f924
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 r
 Bapp/src/main/java/com/raveendran/composenote/ui/components/Data.kt,2\7\2756285c7160179e1d3c384561fbcb34c23d5984
