@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compose Note</string>
+    <string name="text_message_share">Title: %s\n\nNote: %s.\n \nVisit: https://github.com/Revindran</string>
+</resources>
